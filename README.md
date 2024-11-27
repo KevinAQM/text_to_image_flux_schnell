@@ -1,5 +1,5 @@
 ## Descripción
-Este proyecto permite crear una aplicacion web para generar imagenes con el uso de Inteligencia Artificial.
+Este proyecto permite crear una aplicacion web para generar imágenes con el uso de Inteligencia Artificial.
 
 ## Requisitos previos
 - Python 3.x
